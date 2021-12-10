@@ -1,0 +1,7 @@
+autopep8==1.6.0
+mpmath==1.2.1
+numpy==1.21.4
+pycodestyle==2.8.0
+scipy==1.7.2
+sympy==1.9
+toml==0.10.2
